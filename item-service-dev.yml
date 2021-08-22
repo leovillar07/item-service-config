@@ -1,0 +1,8 @@
+configuration
+	text: Configurando Entorno de Produccion
+	autor:
+		nombre: Leonardo Villar
+		email: leonardorvr7@gmail.com
+
+server:
+  port: 8005
