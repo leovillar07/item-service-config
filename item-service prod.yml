@@ -1,4 +1,4 @@
-configuration
+configuration:
 	text: Configurando Entorno de Produccion
 	autor:
 		nombre: Leonardo Villar

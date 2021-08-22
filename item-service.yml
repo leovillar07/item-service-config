@@ -1,5 +1,5 @@
-configuration
-	text: Configurando Entorno de Produccion
+configuration:
+	text: Configurando Entorno por defecto
 	autor:
 		nombre: Leonardo Villar
 		email: leonardorvr7@gmail.com
