@@ -1,8 +1,0 @@
-configuration:
-	text: Configurando Entorno de Desarrollo
-	autor:
-		nombre: Leonardo Villar
-		email: leonardorvr7@gmail.com
-
-server:
-  port: 8005
